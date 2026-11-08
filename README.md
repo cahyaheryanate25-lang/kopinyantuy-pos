@@ -47,4 +47,4 @@ Sistem Point of Sales (POS) dan Pemesanan Mandiri Berbasis QR Code untuk Kedai K
 
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/cahyaheryanate25-lang/kopinyantuy-pos.git](https://github.com/cahyaheryanate25-lang/kopinyantuy-pos.git)
+   git clone [https://github.com/cahyaheryanate25-lang/kopinyantuy-pos.git]
