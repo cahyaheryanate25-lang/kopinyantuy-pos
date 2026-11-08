@@ -53,9 +53,8 @@ Sistem Point of Sales (POS) dan Pemesanan Mandiri Berbasis QR Code untuk Kedai K
 
 
 ### 2. Barcode QR Meja
-*(Berikut adalah tampilan QR Code untuk akses pemesanan dimeja)*
+<img width="1155" height="1155" alt="image" src="https://github.com/user-attachments/assets/f3a97180-c780-4e70-8899-baf2e5c5e9e0" />
 
-[DRAG & DROP GAMBAR QR CODE KE SINI]
 
 ### 3. Tampilan Kasir
 *(Berikut adalah tangkapan layar dashboard manajemen kasir)*
