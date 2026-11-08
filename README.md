@@ -3,6 +3,7 @@
 Sistem Point of Sales (POS) dan Pemesanan Mandiri Berbasis QR Code untuk Kedai Kopi. Dibuat menggunakan PHP Native dan MySQL sebagai Proyek Perkuliahan.
 
 🌐 **Live Demo:** [http://kopinyantuy-pos.great-site.net](http://kopinyantuy-pos.great-site.net)
+
 👨‍💼 **Dashboard Kasir:** [http://kopinyantuy-pos.great-site.net/admin.php](http://kopinyantuy-pos.great-site.net/admin.php)
 
 ---
