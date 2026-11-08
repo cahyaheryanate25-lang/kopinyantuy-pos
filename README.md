@@ -57,9 +57,8 @@ Sistem Point of Sales (POS) dan Pemesanan Mandiri Berbasis QR Code untuk Kedai K
 
 
 ### 3. Tampilan Kasir
-*(Berikut adalah tangkapan layar dashboard manajemen kasir)*
+<img width="1919" height="605" alt="image" src="https://github.com/user-attachments/assets/d58504dc-c3c2-4330-92d7-3779c67abe6b" />
 
-[DRAG & DROP GAMBAR KASIR KE SINI]
 
 ---
 
